@@ -1,0 +1,50 @@
+body {
+	font-family: Lucida Sans Unicode, sans-serif;
+	color: black;
+	font-size: 100%;
+}
+
+h1 {
+	margin-bottom: 50px;
+	margin-top: 25px;
+	text-align: center;
+	font-size: 175%;
+}
+
+div#container {
+	position: relative;
+	background-color: #CEF6EC;
+	padding: 45px 10px 10px 10px;
+	margin: 10px;
+	border: 1px solid black;
+}
+
+#p1 {
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: 1px solid black;
+	padding: 3px 32px 3px 32px;
+	background-color: #58D3F7;
+	font-size: 125%;
+}
+
+#p2 {
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: 1px solid black;
+	padding: 3px 51px 3px 51px;
+	background-color: #BE81F7;
+	font-size: 125%;
+}
+
+#p3 {
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: 1px solid black;
+	padding: 3px 45px 3px 45px;
+	background-color: #81F79F;
+	font-size: 125%;
+}
